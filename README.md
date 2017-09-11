@@ -2,7 +2,7 @@
 
 `stamp -c command` runs command for each line it receives on stdin, and prepends it to the line on stdout.
 
-# Example usage
+## Example usage
 
 ```
 $ yes foo | stamp -c date
